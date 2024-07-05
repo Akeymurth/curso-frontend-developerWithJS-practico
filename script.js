@@ -4,7 +4,7 @@ const menuBurger = document.querySelector('.menu');
 const mobileMenu = document.querySelector('.mobile-menu');
 const body = document.querySelector('body');
 const menuCarritoIcon = document.querySelector('.navbar-shopping-cart');
-const aside = document.querySelector('.product-detail');
+const aside = document.querySelector('.order-detail');
 const cardsContainer = document.querySelector('.cards-container');
 
 //Desktop menu
